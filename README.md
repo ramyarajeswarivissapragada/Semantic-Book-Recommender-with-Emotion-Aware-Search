@@ -100,6 +100,15 @@ Do not commit your .env file or API keys to version control.
 
 ---
 
+## ✍️ Author
+
+**Ramya Rajeswari Vissapragada**
+MS Business Analytics & AI, The University of Texas at Dallas
+
+💻 Passionate about NLP, ML, and Responsible AI
+
+---
+
 ## 💡 Future Improvements
 
 * Add pagination and filters for sentiment/emotion tags.
