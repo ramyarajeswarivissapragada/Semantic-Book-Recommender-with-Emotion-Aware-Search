@@ -26,9 +26,9 @@ book-recommender/
 ├── data-exploration.ipynb        # EDA on the book dataset
 ├── vector-search.ipynb           # Embedding generation + similarity search
 ├── text-classification.ipynb     # Emotion classification via pre-trained model
-├── sentiment\_analysis.ipynb      # Sentiment analysis pipeline
+├── sentiment\_analysis.ipynb     # Sentiment analysis pipeline
 ├── gradio-dashboard.py           # Gradio front-end for book recommendations
-├── books\_with\_emotions.csv       # Cleaned dataset with labels
+├── books\_with\_emotions.csv     # Cleaned dataset with labels
 └── .env                          # API keys and environment variables (not tracked)
 
 ````
@@ -103,9 +103,6 @@ This project is licensed under the MIT License.
 ---
 
 ```
-
----
-
 ### ✅ To Finalize:
 1. Place your **Gradio screenshots** in a folder like `assets/` and reference them in the README.
 2. Add a `requirements.txt` (I can help generate this if needed).
