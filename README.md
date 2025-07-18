@@ -101,12 +101,3 @@ Do **not** commit your API key.
 This project is licensed under the MIT License.
 
 ---
-
-```
-### ✅ To Finalize:
-1. Place your **Gradio screenshots** in a folder like `assets/` and reference them in the README.
-2. Add a `requirements.txt` (I can help generate this if needed).
-3. Link your LinkedIn/Portfolio if you'd like to show off the project to recruiters.
-
-Let me know if you want a **shorter version**, a **blog-style version**, or a **version tailored for recruiters**!
-```
