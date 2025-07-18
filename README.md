@@ -36,6 +36,12 @@ book-recommender/
 ---
 
 ## 🚀 Demo
+## 🖼️ Screenshots
+
+### Main Interface
+![Gradio Interface](gradio-interface.png)
+
+
 
 Try it locally:
 ```bash
@@ -46,8 +52,12 @@ python gradio-dashboard.py
 You'll be able to enter a query like:
 
 > *"a heartwarming story about friendship and healing"*
+### Search Results
+![Search Results](search-results.png)
 
 ...and get semantically relevant book recommendations with thumbnails, emotions, and sentiment labels.
+### Emotion Classification
+![Emotion Filtering](emotion-filtering.png)
 
 ---
 
