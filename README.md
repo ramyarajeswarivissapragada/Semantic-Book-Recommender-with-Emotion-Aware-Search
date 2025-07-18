@@ -87,21 +87,16 @@ You'll be able to enter a query like:
 
 ---
 
-Screenshots:
-
-
-
----
-
 ## 🔒 Environment Variables
 
-You’ll need an `.env` file in your root directory with:
+To run this project, create a `.env` file in the root directory with your OpenAI key:
 
-```
+```bash
 OPENAI_API_KEY=your_openai_key_here
+
 ```
 
-Do **not** commit your API key.
+Do not commit your .env file or API keys to version control.
 
 ---
 
