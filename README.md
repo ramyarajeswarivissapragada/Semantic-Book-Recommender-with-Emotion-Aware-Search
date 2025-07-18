@@ -56,8 +56,11 @@ You'll be able to enter a query like:
 ![Search Results](search-results.png)
 
 ...and get semantically relevant book recommendations with thumbnails, emotions, and sentiment labels.
+
 ### Emotion Classification
-![Emotion Filtering](emotion-filtering.png)
+![Emotion Filtering](genre-emotion-filtering.png)
+
+![Individual Book View](individual-book-view.png)
 
 ---
 
